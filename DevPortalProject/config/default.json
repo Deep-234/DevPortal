@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://mernc:mernc@cluster0.tii2u.mongodb.net/Developers?retryWrites=true&w=majority",
+    "jwtSecret" : "hghjfjgjkhgfklhgilghrigkwpweo54654wehewlfh892r72389723@%@$%@$",
+    "githubClientId" : "590b5925a346d456ac9b",
+    "githubSecret":"1818e2d0d4e23d344c7605154d97c6b3c5b5f6f3"
+}
